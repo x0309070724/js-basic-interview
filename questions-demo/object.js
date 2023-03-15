@@ -16,7 +16,7 @@ const obj2 = new Object({
 
 const obj21 = new Object(obj1) // obj1 === obj21
 
-const obj3 = Object.create(null)
+const obj3 = Object.create(null) // [Object: null prototype] {}
 const obj4 = new Object() // {}
 
 const obj5 = Object.create({

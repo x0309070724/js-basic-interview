@@ -16,8 +16,8 @@
 // const p1 = pList[0]
 
 
-// property:修改对象属性，不会体现在html结构中（尽量使用property，比较attribue,可以尽量避免dom重新渲染）
-// attribue:修改html属性，会改变html结构
+// property:修改对象属性，不会体现在html结构中（尽量使用property，比较attribute,可以尽量避免dom重新渲染）
+// attribute:修改html属性，会改变html结构
 // // property 形式 （修改的是dom元素的js变量）
 // p1.style.width = '100px'
 // console.log( p1.style.width )
